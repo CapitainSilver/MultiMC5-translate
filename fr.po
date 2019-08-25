@@ -98,7 +98,7 @@ msgstr "Crédits"
 msgctxt "AboutDialog|"
 msgid "No Language file loaded."
 msgstr ""
-"Traduction FR par un inconnu, GamingPilot2, Futurjojo#0956 et ThibaultP."
+"Traduction FR par un inconnu, GamingPilot2, Futurjojo#0956, ThibaultP et Nocturne."
 
 #: src/application/dialogs/AboutDialog.ui:241
 msgctxt "AboutDialog|"
@@ -236,7 +236,7 @@ msgstr ""
 #: src/application/pages/global/AccountListPage.cpp:77
 msgctxt "AccountListPage|"
 msgid "Context menu"
-msgstr ""
+msgstr "Menu Contextuel"
 
 #: src/application/pages/global/AccountListPage.cpp:106
 msgctxt "AccountListPage|"
@@ -256,7 +256,7 @@ msgstr "Fenêtre de jeu"
 #: src/application/pages/global/AccountListPage.ui:37
 msgctxt "AccountListPage|"
 msgid "toolBar"
-msgstr ""
+msgstr "Barre d'outils"
 
 #: src/application/pages/global/AccountListPage.ui:53
 #, fuzzy
